@@ -1,3 +1,4 @@
+## Greetings 👋, I'm Robert Szczotka
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discordapp.com/users/499606807090692106) 
