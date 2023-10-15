@@ -1,7 +1,7 @@
 ## Greetings 👋, I'm Robert Szczotka
 
 ## ❓ How to reach me:
-robert@szczotka.net.pl
+robert@szczotka.net.pl <br><br>
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/499606807090692106) <br>
 
 # 💻 Tech Stack:
