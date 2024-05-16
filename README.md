@@ -14,8 +14,8 @@
 # 📊 GitHub Stats:
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arkis0&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"></td>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arkis0&theme=outrun"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rszczotka&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rszczotka&theme=outrun"></td>
   </tr>
 </table>
 
