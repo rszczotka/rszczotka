@@ -1,4 +1,4 @@
-## Greetings 👋, I'm Robert Szczotka
+## Hi 👋, I'm Robert Szczotka
 
 # 💻 Tech Stack:
 <p align="center">
